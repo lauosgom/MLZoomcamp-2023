@@ -40,6 +40,57 @@ I got good results. Now I can access with the ssh mlops-zoomcamp command
 
 The course suggests to use Anaconda. I am not a personal fan but given that is an instance, I got it and gave it a try.
 
-## 2. Installing Docker
+### 2. Installing Docker
 
 sudo apt install docker.io
+
+This went smoothly
+
+### 3. Installing Docker compose
+
+This was new to me so this is what the https://docs.docker.com/compose/ said about it
+
+Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
+
+Compose works in all environments: production, staging, development, testing, as well as CI workflows. It also has commands for managing the whole lifecycle of your application:
+
+Start, stop, and rebuild services
+View the status of running services
+Stream the log output of running services
+Run a one-off command on a service
+The key features of Compose that make it effective are:
+
+Have multiple isolated environments on a single host
+Preserves volume data when containers are created
+Only recreate containers that have changed
+Supports variables and moving a composition between environments
+
+Installing docker compose from github releases
+
+wget https://github.com/docker/compose/releases/download/v2.18.0/docker-compose-linux-x86_64 -O docker-compose
+
+chmod +x docker-compose to make it executable
+
+Then I went to the main directory and added the path on the .bashrc
+
+nano .bashrc
+
+The going to the end and adding:
+
+export PATH="{HOME}/soft:${PATH}"
+
+soft is the directory where the docker-compose is stored
+
+use docker without sudo
+
+https://docs.docker.com/engine/install/linux-postinstall/
+
+sudo groupadd docker
+
+sudo usermod -aG docker $USER
+
+logout and login again your virtual machine 
+
+### 4. clone the repository and get access in VSCode
+
+clone 'repo_url'
