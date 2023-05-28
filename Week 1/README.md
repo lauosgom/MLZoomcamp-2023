@@ -100,3 +100,11 @@ clone 'repo_url'
 ### 5. connect VScode to a virtual machine
 
 Install the extension Remote - SSH
+
+Open a Remote window
+
+Connect to host. the configured ssh host mlops-zoomcamps should appear there or you can add a new one
+
+You will get the full directory on VS code. Open the terminal, go to ports and add 8888
+
+Now you can go to notebooks and type jupyter notebooks. The output will be a link that you type on your browser and will take you to the jupyter interface.
