@@ -7,7 +7,10 @@ This section includes the notes and development of the first week
 I created an Ubuntu EC2 instance and downoaded the key (.pem file) in the ~/.ssh folder
 
 Then, tried to connect to the instance through the terminal with the following command:
+
+```
 ssh -i ~/.ssh/key_name.pem ubuntu@ipaddress 
+```
 
 The ip address comes from the EC2 instance at the AWS user interface
 
@@ -32,11 +35,15 @@ This error message indicates that the permissions of your private key file are t
 
 To fix this issue, you can change the permissions of the key file using the following command:
 
+```
 chmod 400 ~/.ssh/key_name.pem
+```
 
 Then run the instance connection again:
 
+```
 ssh -i ~/.ssh/key_name.pem ubuntu@ipaddress
+```
 
 I got good results. Now I can access with the ssh mlops-zoomcamp command
 
@@ -44,7 +51,9 @@ The course suggests to use Anaconda. I am not a personal fan but given that is a
 
 ### 2. Installing Docker
 
+```
 sudo apt install docker.io
+```
 
 This went smoothly
 
@@ -69,17 +78,25 @@ Supports variables and moving a composition between environments
 
 Installing docker compose from github releases
 
+```
 wget https://github.com/docker/compose/releases/download/v2.18.0/docker-compose-linux-x86_64 -O docker-compose
+```
 
+```
 chmod +x docker-compose to make it executable
+```
 
 Then I went to the main directory and added the path on the .bashrc
 
+```
 nano .bashrc
+```
 
 The going to the end and adding:
 
+```
 export PATH="{HOME}/soft:${PATH}"
+```
 
 soft is the directory where the docker-compose is stored
 
@@ -87,16 +104,20 @@ use docker without sudo
 
 https://docs.docker.com/engine/install/linux-postinstall/
 
+```
 sudo groupadd docker
+```
 
+```
 sudo usermod -aG docker $USER
+```
 
 logout and login again your virtual machine 
 
 ### 4. clone the repository and get access in VSCode
-
+```
 clone 'repo_url'
-
+```
 ### 5. connect VScode to a virtual machine
 
 Install the extension Remote - SSH
