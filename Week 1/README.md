@@ -13,6 +13,7 @@ The ip address comes from the EC2 instance at the AWS user interface
 
 However I got the following error:
 
+```
 The authenticity of host 'X.xxx.xxx.xxx (X.xxx.xxx.xxx)' can't be established.
 ECDSA key fingerprint is SHA256:0WIGHcYT5i+lBvTKWwV360Jfjg9+VC8QoI6upTNJlhY.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
@@ -25,6 +26,7 @@ It is required that your private key files are NOT accessible by others.
 This private key will be ignored.
 Load key "/Users/user_name/.ssh/key_name.pem": bad permissions
 ubuntu@X.xxx.xxx.xxx: Permission denied (publickey).
+```
 
 This error message indicates that the permissions of your private key file are too open. The recommended permissions for private key files are 400, meaning that only the owner has read and write permissions and no one else can access the file.
 
@@ -94,3 +96,7 @@ logout and login again your virtual machine
 ### 4. clone the repository and get access in VSCode
 
 clone 'repo_url'
+
+### 5. connect VScode to a virtual machine
+
+Install the extension Remote - SSH
