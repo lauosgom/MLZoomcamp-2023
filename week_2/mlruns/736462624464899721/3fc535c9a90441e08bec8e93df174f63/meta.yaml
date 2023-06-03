@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/3fc535c9a90441e08bec8e93df174f63/artifacts
+end_time: 1685815690749
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 3fc535c9a90441e08bec8e93df174f63
+run_name: clumsy-snipe-28
+run_uuid: 3fc535c9a90441e08bec8e93df174f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685815646943
+status: 3
+tags: []
+user_id: lauosgom
