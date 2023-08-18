@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/f885a3c8a0004bbea3e24228fe8b8f2f/artifacts
+end_time: 1685841542787
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: f885a3c8a0004bbea3e24228fe8b8f2f
+run_name: burly-bug-793
+run_uuid: f885a3c8a0004bbea3e24228fe8b8f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685841510324
+status: 3
+tags: []
+user_id: lauosgom

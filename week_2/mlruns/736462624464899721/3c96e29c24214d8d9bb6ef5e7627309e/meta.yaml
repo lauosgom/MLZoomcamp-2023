@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/3c96e29c24214d8d9bb6ef5e7627309e/artifacts
+end_time: 1685840476916
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 3c96e29c24214d8d9bb6ef5e7627309e
+run_name: rumbling-wolf-559
+run_uuid: 3c96e29c24214d8d9bb6ef5e7627309e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685840297190
+status: 3
+tags: []
+user_id: lauosgom

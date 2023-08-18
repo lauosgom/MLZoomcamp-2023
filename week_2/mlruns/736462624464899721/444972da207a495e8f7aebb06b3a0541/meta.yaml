@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/444972da207a495e8f7aebb06b3a0541/artifacts
+end_time: 1685841671352
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 444972da207a495e8f7aebb06b3a0541
+run_name: stately-wasp-211
+run_uuid: 444972da207a495e8f7aebb06b3a0541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685841601906
+status: 3
+tags: []
+user_id: lauosgom

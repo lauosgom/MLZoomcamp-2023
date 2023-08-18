@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/bdfec1185a634d429eb06c2d12481da1/artifacts
+deleted_time: 1685841284094
+end_time: 1685841235803
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: deleted
+run_id: bdfec1185a634d429eb06c2d12481da1
+run_name: melodic-hog-373
+run_uuid: bdfec1185a634d429eb06c2d12481da1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685841225385
+status: 4
+tags: []
+user_id: lauosgom

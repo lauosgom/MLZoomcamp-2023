@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/d0db128bf7b644449bdbc5dbbd0abcbc/artifacts
+end_time: 1685841423518
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: d0db128bf7b644449bdbc5dbbd0abcbc
+run_name: funny-crow-523
+run_uuid: d0db128bf7b644449bdbc5dbbd0abcbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685841400550
+status: 3
+tags: []
+user_id: lauosgom

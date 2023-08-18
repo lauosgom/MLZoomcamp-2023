@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/7054777611a04501b6979d91f8b9ff3a/artifacts
+end_time: 1692393408954
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 7054777611a04501b6979d91f8b9ff3a
+run_name: overjoyed-asp-358
+run_uuid: 7054777611a04501b6979d91f8b9ff3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692393370861
+status: 3
+tags: []
+user_id: lauosgom

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/c89aa32b8f2a480d8c3860692dbfba91/artifacts
+end_time: 1687209900933
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: c89aa32b8f2a480d8c3860692dbfba91
+run_name: aged-fawn-454
+run_uuid: c89aa32b8f2a480d8c3860692dbfba91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687209788445
+status: 4
+tags: []
+user_id: lauosgom

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/ea967f54359d4521ab7ed96eb176ac32/artifacts
+deleted_time: 1685841284129
+end_time: 1685841191396
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: deleted
+run_id: ea967f54359d4521ab7ed96eb176ac32
+run_name: fortunate-mare-909
+run_uuid: ea967f54359d4521ab7ed96eb176ac32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685840618083
+status: 4
+tags: []
+user_id: lauosgom

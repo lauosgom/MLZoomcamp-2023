@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/96b3d2c5c7084d4eaeb3c216814a573e/artifacts
+end_time: 1687210590328
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 96b3d2c5c7084d4eaeb3c216814a573e
+run_name: receptive-eel-571
+run_uuid: 96b3d2c5c7084d4eaeb3c216814a573e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687210479816
+status: 4
+tags: []
+user_id: lauosgom

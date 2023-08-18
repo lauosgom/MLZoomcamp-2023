@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/4868b32a8bb94c75a1996ea2f556cc34/artifacts
+deleted_time: 1685841284094
+end_time: 1685841220132
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: deleted
+run_id: 4868b32a8bb94c75a1996ea2f556cc34
+run_name: abrasive-moth-966
+run_uuid: 4868b32a8bb94c75a1996ea2f556cc34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685841211133
+status: 4
+tags: []
+user_id: lauosgom

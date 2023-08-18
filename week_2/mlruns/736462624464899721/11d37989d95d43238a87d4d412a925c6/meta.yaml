@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/11d37989d95d43238a87d4d412a925c6/artifacts
+end_time: 1687210207783
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 11d37989d95d43238a87d4d412a925c6
+run_name: intelligent-fly-750
+run_uuid: 11d37989d95d43238a87d4d412a925c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687210093158
+status: 4
+tags: []
+user_id: lauosgom

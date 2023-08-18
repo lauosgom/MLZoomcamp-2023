@@ -4,7 +4,7 @@ This section includes the notes and development of the first week
 ## Notes
 
 ### 1. Setting the Virtual Machine with Amazon EC2
-I created an Ubuntu EC2 instance and downoaded the key (.pem file) in the ~/.ssh folder
+I created an Ubuntu EC2 instance and downloaded the key (.pem file) in the ~/.ssh folder
 
 Then, tried to connect to the instance through the terminal with the following command:
 

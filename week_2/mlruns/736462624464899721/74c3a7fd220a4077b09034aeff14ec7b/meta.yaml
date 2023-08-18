@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/74c3a7fd220a4077b09034aeff14ec7b/artifacts
+end_time: 1685841369700
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 74c3a7fd220a4077b09034aeff14ec7b
+run_name: dashing-rat-265
+run_uuid: 74c3a7fd220a4077b09034aeff14ec7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685841326664
+status: 3
+tags: []
+user_id: lauosgom

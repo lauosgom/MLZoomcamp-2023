@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736462624464899721/22b4d5f0bc4548409903b938d6657069/artifacts
+end_time: 1685841326643
+entry_point_name: ''
+experiment_id: '736462624464899721'
+lifecycle_stage: active
+run_id: 22b4d5f0bc4548409903b938d6657069
+run_name: abundant-mouse-71
+run_uuid: 22b4d5f0bc4548409903b938d6657069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685841300554
+status: 3
+tags: []
+user_id: lauosgom
